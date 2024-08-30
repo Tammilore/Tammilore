@@ -1,4 +1,4 @@
-<h1 align="center">Hihi 👋, I'm Tami</h1>
+<h1 align="center">Hi 👋, I'm Tami</h1>
 <h3 align="center">I'm a product developer who likes to build cool stuff for work and play</h3>
 
 - 🔭 I’m currently working on [Roofus](https://roofus.rent)
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://tamilore.co/blog](https://tamilore.co/blog)
 
-- 💬 Ask me about **no/low-code development integrations and automations**
+- 💬 Ask me about **no/low-code development, integrations and automations**
 
 - 📫 How to reach me **tammilore@gmail.com**
 
