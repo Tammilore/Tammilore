@@ -14,6 +14,3 @@
 - 📫 How to reach me **tammilore@gmail.com**
 
 - ⚡ Fun fact **I love watching cartoons.**
-
-[![Tammilore's GitHub | Stats](https://stats.quira.sh/Tammilore/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Tammilore)
-
