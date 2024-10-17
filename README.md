@@ -9,7 +9,7 @@
 
 - 📝 I write long-form build articles on [https://tamilore.co/blog](https://tamilore.co/blog)
 
-- 📩 I run a product newsletter called Crazy Eggs. [https://crazyeggs.substack.com/](Subscribe here).
+- 📩 I run a product newsletter called Crazy Eggs. [https://crazyeggs.substack.com](Subscribe here).
 
 - 💬 Ask me about **no/low-code development, APIs, integrations and automations**
 
