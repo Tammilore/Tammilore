@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tami</h1>
-<h3 align="center">I'm a product developer who likes to build cool stuff for work and play</h3>
+<h3 align="center">I'm a product developer who likes to build cool stuff for work and fun</h3>
 
 - 🔭 I’m currently working on [Roofus](https://roofus.rent) among a dozen other things.
 
