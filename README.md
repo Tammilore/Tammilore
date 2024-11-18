@@ -1,18 +1,13 @@
-<h1 align="center">Hi 👋, I'm Tami</h1>
-<h3 align="center">I'm a product developer who likes to build cool stuff for work and fun</h3>
+<h1 align="center">Hi, I'm Tami</h1>
+<h3 align="center">I like building cool stuff for work and fun</h3>
 
-- 🔭 I’m currently working on [Roofus](https://roofus.rent) among a dozen other things.
+- Check out [my projects](https://tamilore.co)
 
-- 🌱 I’m currently learning **NestJS**
+- I write long-form build articles on [my blog](https://tamilore.co/blog)
 
-- 👨‍💻 All of my projects are available at [https://tamilore.co](https://tamilore.co)
+- I also run a monthly product newsletter called [Crazy Eggs](https://crazyeggs.substack.com).
 
-- 📝 I write long-form build articles on [https://tamilore.co/blog](https://tamilore.co/blog)
+- Ask me about **low-code development, APIs, integrations and automations**
 
-- 📩 I run a product newsletter called Crazy Eggs. [Subscribe here](https://crazyeggs.substack.com).
+- How to reach me: **tammilore@gmail.com**
 
-- 💬 Ask me about **no/low-code development, APIs, integrations and automations**
-
-- 📫 How to reach me **tammilore@gmail.com**
-
-- ⚡ Fun fact **I love watching cartoons.**
