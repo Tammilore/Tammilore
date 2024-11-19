@@ -9,5 +9,3 @@
 
 - Ask me about **low-code development, APIs, integrations and automations**
 
-- How to reach me: **tammilore@gmail.com**
-
